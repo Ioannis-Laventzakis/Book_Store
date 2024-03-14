@@ -1,4 +1,4 @@
-# Bookstore Database Project
+# Bookstore Database Project PostgresSQL
 
 ## Overview
 This project involves the creation of a relational database to manage a bookstore's data. The database includes tables to store information about books, authors, publishers, categories, and orders.
