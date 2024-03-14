@@ -69,7 +69,8 @@ CREATE TABLE authors (
     name VARCHAR(100) NOT NULL,
     bio TEXT
 );
-
+**books Table**
+```sql
 CREATE TABLE books (
     book_id SERIAL PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
