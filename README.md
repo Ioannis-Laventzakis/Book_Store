@@ -151,7 +151,8 @@ INSERT INTO orders (order_date, status) VALUES
 ('2024-03-16', 'shipped');
 
 **Inserting Order Items**
-```sql INSERT INTO order_items (order_id, book_id, quantity, price_at_order) VALUES
+```sql 
+INSERT INTO order_items (order_id, book_id, quantity, price_at_order) VALUES
 (1, 1, 1, 19.95),
 (1, 2, 2, 9.99),
 (2, 3, 1, 7.99),
